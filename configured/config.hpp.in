@@ -1,0 +1,12 @@
+#pragma once
+
+#include <cstdint>
+#include <string_view>
+
+static constexpr std::string_view project_name = "@PROJECT_NAME@";
+static constexpr std::string_view project_version = "@PROJECT_VERSION@"; //from Main CMakeLists =>project(CppProjectTemplate VERSION 1.6.0 LANGUAGES C CXX)
+
+
+static constexpr std::int32_t project_version_major{1};
+static constexpr std::int32_t project_version_minor{6};
+static constexpr std::int32_t project_version_patch{0};

@@ -1,0 +1,12 @@
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/CMakeFiles/edit_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/CMakeFiles/rebuild_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/configured/CMakeFiles/edit_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/configured/CMakeFiles/rebuild_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/src/CMakeFiles/edit_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/src/CMakeFiles/rebuild_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/src/my_lib/CMakeFiles/Library.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/src/my_lib/CMakeFiles/edit_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/src/my_lib/CMakeFiles/rebuild_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/app/CMakeFiles/Executable.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/app/CMakeFiles/edit_cache.dir
+/home/yaron/Desktop/projects/Infrastruct_SBC/build/app/CMakeFiles/rebuild_cache.dir
