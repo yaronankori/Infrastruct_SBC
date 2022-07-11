@@ -9,6 +9,8 @@ int main()
     std::cout << project_version << '\n';
 
     std::cout << "Hello Yaron from main.cpp!" << '\n';
+    std::cout << "Hello Yaron from main.cpp!" << '\n';
+
 
 
     FunctionPrintYaron();
