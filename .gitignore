@@ -8,3 +8,8 @@ build/app/CMakeFiles/Executable.dir/compiler_depend.make
 build/app/CMakeFiles/Executable.dir/main.cpp.o
 build/app/CMakeFiles/Executable.dir/main.cpp.o
 /build/app
+build/src/my_lib/CMakeFiles/Library.dir/my_lib.cpp.o
+
+*.o
+*.dir
+*.a

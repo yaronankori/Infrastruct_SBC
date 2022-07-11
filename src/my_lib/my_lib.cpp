@@ -4,5 +4,5 @@
 
 void FunctionPrintYaron()
 {
-    std::cout << "Hello Yaron from lib6!\n";
+    std::cout << "Hello Yaron from lib!\n";
 };
